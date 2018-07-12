@@ -5,7 +5,7 @@
 var quizJSON = {
     "info": {
         "name":    "Singapore v. World Cup Teams: Population Edition",
-        "main":    "<img src='img/singflag.jpg'> <img src='img/russia.png'><p>You think you how Singapore ranks next to other small countries?</p>",
+        "main":    "<img src='img/singflag.jpg'> <img src='img/russia.png'><p>You think you know how Singapore ranks next to other small countries?</p>",
         "results": "<h5>Learn More</h5><p>Etiam scelerisque, nunc ac egestas consequat, odio nibh euismod nulla, eget auctor orci nibh vel nisi. Aliquam erat volutpat. Mauris vel neque sit amet nunc gravida congue sed sit amet purus.</p>",
         "level1":  "Champion! If they had a World Cup for population trivia, you'd totally win!",
         "level2":  "Semi Finals! You got almost every question right, hold your head up high!",
