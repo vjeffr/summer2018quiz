@@ -22,8 +22,8 @@ var quizJSON = {
                 {"option": "Portugal",      "correct": false},
                 {"option": "Denmark",     "correct": false} // no comma here
             ],
-            "correct": '<p>Right! The small country of Croatia, known as a beachy paradise at the crossroads of Eastern and Western Europe, has fewer people than Singapore - and pretty awesome traditional dances.</p><iframe width="425" height="350" src="https://www.youtube.com/embed/AOnW8axJ4XA?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
-                        "incorrect": '<p><span>Sorry! The correct answer is Croatia.</span> The little nation, known as a beachy paradise at the crossroads of Eastern and Western Europe, has fewer people than Singapore - and pretty awesome traditional dances.</p><iframe width="425" height="350" src="https://www.youtube.com/embed/AOnW8axJ4XA?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>'  // no comma here
+            "correct": '<p>Right! The small country of Croatia, known as a beachy paradise at the crossroads of Eastern and Western Europe, has fewer people than Singapore - and some crazy traditional dances.</p><iframe width="560" height="315" src="https://www.youtube.com/embed/p4Y1k9awJ6M?start=110" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
+                        "incorrect": '<p><span>Sorry! The correct answer is Croatia.</span> The little nation, known as a beachy paradise at the crossroads of Eastern and Western Europe, has fewer people than Singapore - and crazy traditional dances.</p><iframe width="560" height="315" src="https://www.youtube.com/embed/p4Y1k9awJ6M?start=110" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>'  // no comma here
         },
         //End of question 1
 
@@ -77,7 +77,7 @@ var quizJSON = {
               {"option": "10th smallest",      "correct": false},
               {"option": "16th smallest",   "correct": false} // no comma here
             ],
-            "correct": '<p><span>Score!</span></p><p><iframe width="560" height="315" src="https://www.youtube.com/embed/zaRUUUfIvyU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p><p>You are hotter than Ivan Perisic in the 68th minute of the semi-finals</p>',
+            "correct": '<p><span>Score! You are hotter than Ivan Perisic in the 68th minute of the semi-finals!</span></p><p><iframe width="560" height="315" src="https://www.youtube.com/embed/zaRUUUfIvyU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>',
             "incorrect": '<p><span>Ouch! They are the 4th smallest team this year.</span></p><p><iframe width="560" height="315" src="https://www.youtube.com/embed/zaRUUUfIvyU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p><p>That hurts more than getting scored on by Ivan Perisic in the 68th minute of the World Cup semi-finals!</p>' // no comma here
         },
 
