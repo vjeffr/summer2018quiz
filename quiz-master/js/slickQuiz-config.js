@@ -22,8 +22,8 @@ var quizJSON = {
                 {"option": "Portugal",      "correct": false},
                 {"option": "Denmark",     "correct": false} // no comma here
             ],
-            "correct": '<p>Right! The small country of Croatia, known as a beachy paradise at the crossroads of Eastern and Western Europe, has fewer people than Singapore.</p><iframe width="425" height="350" src="https://www.youtube.com/embed/AOnW8axJ4XA?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
-                        "incorrect": '<p><span>Sorry! The correct answer is Croatia.</span> The little nation, known as a beachy paradise at the crossroads of Eastern and Western Europe, has fewer people than Singapore. </p><iframe width="425" height="350" src="https://www.youtube.com/embed/AOnW8axJ4XA?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>'  // no comma here
+            "correct": '<p>Right! The small country of Croatia, known as a beachy paradise at the crossroads of Eastern and Western Europe, has fewer people than Singapore - and pretty awesome traditional dances.</p><iframe width="425" height="350" src="https://www.youtube.com/embed/AOnW8axJ4XA?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',
+                        "incorrect": '<p><span>Sorry! The correct answer is Croatia.</span> The little nation, known as a beachy paradise at the crossroads of Eastern and Western Europe, has fewer people than Singapore - and pretty awesome traditional dances.</p><iframe width="425" height="350" src="https://www.youtube.com/embed/AOnW8axJ4XA?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>'  // no comma here
         },
         //End of question 1
 
@@ -35,8 +35,8 @@ var quizJSON = {
               {"option": "4.8 million ",      "correct": false},
               {"option": "3 million",   "correct": false} // no comma here
           ],
-          "correct": "<p><span>Holy bananas!</span> I didn't actually expect you to know that! Correct!</p>",
-          "incorrect": "<p><span>Fail.</span> Sorry. You lose. We actually have approximately 5.6 million people here.</p>" // no comma here
+          "correct": "<p><span>Correct!</span> I didn't actually expect you to know that! Singapore has approximately 5.6 million people, all of whom seem to love football.</p> <img src='http://blog.eoasia.com/wp-content/uploads/2015/08/6.jpg'",
+          "incorrect": "<p><span>Fail.</span> Sorry. You lose. We actually have approximately 5.6 million people here, and they all seem to love football.</p> <img src='http://blog.eoasia.com/wp-content/uploads/2015/08/6.jpg'" // no comma here
         },
 //End of question 2
 
@@ -77,8 +77,8 @@ var quizJSON = {
               {"option": "10th smallest",      "correct": false},
               {"option": "16th smallest",   "correct": false} // no comma here
             ],
-            "correct": "<p><span>Good Job!</span> That was the toughest question!</p>",
-            "incorrect": "<p><span>ERRRR!</span> It's the 4th smallest, but that was the toughest question!</p>" // no comma here
+            "correct": '<p><span>Score!</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/zaRUUUfIvyU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> You are hotter than Ivan Perisic in the 68th minute of the World Cup semi-finals</p>',
+            "incorrect": '<p><span>Ouch!</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/zaRUUUfIvyU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> That hurts more than getting scored on by Ivan Perisic in the 68th minute of the World Cup semi-finals!</p>' // no comma here
         },
 
     ]
