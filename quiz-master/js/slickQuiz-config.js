@@ -77,8 +77,8 @@ var quizJSON = {
               {"option": "10th smallest",      "correct": false},
               {"option": "16th smallest",   "correct": false} // no comma here
             ],
-            "correct": '<p><span>Score!</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/zaRUUUfIvyU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> You are hotter than Ivan Perisic in the 68th minute of the World Cup semi-finals</p>',
-            "incorrect": '<p><span>Ouch!</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/zaRUUUfIvyU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> That hurts more than getting scored on by Ivan Perisic in the 68th minute of the World Cup semi-finals!</p>' // no comma here
+            "correct": '<p><span>Score!</span></p><p><iframe width="560" height="315" src="https://www.youtube.com/embed/zaRUUUfIvyU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p><p>You are hotter than Ivan Perisic in the 68th minute of the semi-finals</p>',
+            "incorrect": '<p><span>Ouch! They are the 4th smallest team this year.</span></p><p><iframe width="560" height="315" src="https://www.youtube.com/embed/zaRUUUfIvyU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p><p>That hurts more than getting scored on by Ivan Perisic in the 68th minute of the World Cup semi-finals!</p>' // no comma here
         },
 
     ]
